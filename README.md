@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# World Top FootBall Club created using JavaScript and BootStrap/React Router.
+## Original project failed to deploy bt Netlify last 12 hours and reported to Jhankar Mahbub Sir.
+## Public Git hub also facing issues while final commit .  Live site created but still not 100% reactive with logos/images.
+[Visit Live site] (https://epsita17.github.io/world-top-football-club/.)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
